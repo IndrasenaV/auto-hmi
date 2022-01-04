@@ -195,3 +195,8 @@ function binary(){
 
 
 }
+
+setTimeout( function(){
+
+    watch_video();
+},2000)
